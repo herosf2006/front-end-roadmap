@@ -25,3 +25,7 @@
    - CSS Grid
    - Flex Box
  - Responsive design and MediaQueries
+
+### JavaScript
+ - Learn the basics
+ - Algorithms and Data Structures: https://github.com/trekhleb/javascript-algorithms
