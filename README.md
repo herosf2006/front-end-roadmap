@@ -16,7 +16,7 @@
  - Accessibility: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
 ### CSS
- - Learn the basics
+ - Learn the basics: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics
  - Making Layouts
    - Floats
    - Positioning
