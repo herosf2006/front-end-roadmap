@@ -14,9 +14,6 @@
  - ~~Form and validations~~
  - ~~Conventions and best practices~~
  - Accessibility: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-   - Semantic HTML
-    - Text content
-    - Page layouts
 
 ### CSS
  - Learn the basics
