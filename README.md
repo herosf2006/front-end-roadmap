@@ -13,7 +13,10 @@
  - Learn the basics
  - ~~Form and validations~~
  - ~~Conventions and best practices~~
- - Accessibility
+ - Accessibility: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+   - Semantic HTML
+    - Text content
+    - Page layouts
 
 ### CSS
  - Learn the basics
