@@ -11,8 +11,8 @@
 
 ### HTML
  - Learn the basics
- - Form and validations
- - Conventions and best practices
+ - ~~Form and validations~~
+ - ~~Conventions and best practices~~
  - Accessibility
 
 ### CSS
