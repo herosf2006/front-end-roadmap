@@ -25,6 +25,7 @@
    - CSS Grid
    - Flex Box
  - Responsive design and MediaQueries
+ https://developer.mozilla.org/en-US/docs/Learn/CSS
 
 ### JavaScript
  - Learn the basics
