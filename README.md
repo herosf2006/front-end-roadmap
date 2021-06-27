@@ -9,6 +9,10 @@
  - What is Domain Name?
  - What is hosting?
 
+### Basic concepts of any programming language
+ 1. Variables
+   
+
 ### HTML
  - Learn the basics
  - ~~Form and validations~~
