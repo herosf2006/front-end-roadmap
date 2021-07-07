@@ -33,5 +33,5 @@
 
 ### JavaScript
  - Learn the basics
- - Algorithms and Data Structures: https://github.com/trekhleb/javascript-algorithms
+ - Algorithms and Data Structures: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data
  - Datastructure: https://www.coderscampus.com/the-5-basic-concepts-of-any-programming-language-concept-2/
